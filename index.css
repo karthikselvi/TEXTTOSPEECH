@@ -16,15 +16,15 @@
     gap: 20px;
 }
 .hero h1{
-    color: white;
+    color:lightblue;
     font-size: 45px;
     font-weight: 500;
     margin-top: -50px;
     margin-bottom: 50px;
 }
-.hero h1 span{
+/* .hero h1 span{
     color: rgb(194, 9, 138);
-}
+} */
 textarea{
     width: 600px;
     height: 250px;
